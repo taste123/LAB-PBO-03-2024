@@ -1,0 +1,21 @@
+#next {
+    -fx-background-color:#6a83b3;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+    -fx-border-color: #474392;
+    -fx-pref-width: 60px;
+}
+
+#fi eld {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent transparent #3b5382 transparent;
+    -fx-border-width: 0 0 2 0;
+}
+
+#exit {
+    -fx-background-color: #f7eff7;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+    -fx-border-color: #3b5382;
+}
+
